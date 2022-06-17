@@ -1,5 +1,10 @@
 # Files to be excluded from uploads to the online repository
-github_data.json
+# Environment files
+venv
+
+
 
 # Python Project files
 .idea
+github_data.json
+config.py

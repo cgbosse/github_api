@@ -13,4 +13,6 @@
    2.In order to view the JSON in Pycharm in a better format I learned to use the Ctrl+Alt+L command from this article.
       1. <https://stackoverflow.com/questions/58129294/how-to-get-pycharm-to-format-a-json-file>
 4. Created a .gitignore file to exclude for upload the github_data.json
-5. 
+5. Trying to access further information following the examples from <https://www.thepythoncode.com/article/using-github-api-in-python>
+   1. Trying to append information to the created JSON file using the article <https://stackoverflow.com/questions/13949637/how-to-update-json-file-with-python>
+   2. 
