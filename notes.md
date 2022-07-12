@@ -1,4 +1,4 @@
-#Notes taken during the process
+# Notes taken during the process
 
 1. In tried to prepare VSCODE to be used with Python without much success.
    Using the following articles:
@@ -15,4 +15,5 @@
 4. Created a .gitignore file to exclude for upload the github_data.json
 5. Trying to access further information following the examples from <https://www.thepythoncode.com/article/using-github-api-in-python>
    1. Trying to append information to the created JSON file using the article <https://stackoverflow.com/questions/13949637/how-to-update-json-file-with-python>
-   2. 
+6. Had to create a Personal Access Token for using PyGithub
+   1. <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-tokenhttps://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>

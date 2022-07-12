@@ -1,0 +1,13 @@
+{
+  "repository_name": "string",
+  "repository_url": "string",
+  "repository_organization": "string",
+  "issue_title": "string",
+  "issue_number": "string",
+  "issue_id": "string",
+  "issue_body": "string",
+  "issue_user": "string",
+  "issue_labels": "string",
+  "issue_date": "string"
+
+}

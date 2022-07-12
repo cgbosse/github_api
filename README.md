@@ -16,7 +16,9 @@ Hereafter I intend to store, filter and use it for automated analysis.
 ### Documentation
 
 - PyGithub  
-  - <https://pygithub.readthedocs.io/en/latest/introduction.html>
+  - Documentation <https://pygithub.readthedocs.io/en/latest/introduction.html>
+  - Repository <https://github.com/PyGithub/PyGithub>
+  - Examples from the repository <https://github.com/sks444/Pygithub-Examples/blob/master/get_repositories_details.py>
 - requests 
   - <https://realpython.com/python-requests/>
   - <https://pypi.org/project/requests/>
@@ -24,6 +26,11 @@ Hereafter I intend to store, filter and use it for automated analysis.
   - <https://pybase64.readthedocs.io/en/stable/#>
 - json 
   - <https://docs.python.org/3/library/json.html>
+
+- GiHub Rest API
+  - Guide - <https://docs.github.com/en/rest>
+  - Traffic API - <https://docs.github.com/en/rest/metrics/traffic>
+
 
 
 # Credits
